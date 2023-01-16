@@ -1,3 +1,5 @@
+# COMING SOON!!
+
 # Phanon
 
 Effortlessly moderate your Discord with Phanon - the lightweight, clean and aesthetically-pleasing moderation bot.
