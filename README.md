@@ -18,4 +18,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[BSL 1.0](https://choosealicense.com/licenses/bsl-1.0//)
+[Boost Software License 1.0](https://choosealicense.com/licenses/bsl-1.0//)
