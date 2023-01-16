@@ -45,3 +45,5 @@ async def unban(interaction: nextcord.Interaction, user: nextcord.Member):
             log_channel = bot.get_channel(channel_id)
             await log_channel.send(f"{user.mention} *was unbanned by {interaction.user.mention}")
         await interaction.guild.unban(user)
+        
+bot.run("insert_discord_bot_token")
