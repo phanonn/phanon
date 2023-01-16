@@ -1,4 +1,4 @@
-# COMING SOON!!
+## COMING SOON!!
 
 # Phanon
 
@@ -17,5 +17,4 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
-
-[Boost Software License 1.0](https://choosealicense.com/licenses/bsl-1.0//)
+[BSL 1.0](https://choosealicense.com/licenses/bsl-1.0//)
